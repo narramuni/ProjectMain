@@ -1,0 +1,10 @@
+C:\Users\SAI PAVAN KUMAR\source\repos\ProjectMain\ProjectMain\bin\Debug\ProjectMain.exe.config
+C:\Users\SAI PAVAN KUMAR\source\repos\ProjectMain\ProjectMain\bin\Debug\ProjectMain.exe
+C:\Users\SAI PAVAN KUMAR\source\repos\ProjectMain\ProjectMain\bin\Debug\ProjectMain.pdb
+C:\Users\SAI PAVAN KUMAR\source\repos\ProjectMain\ProjectMain\obj\Debug\ProjectMain.csproj.AssemblyReference.cache
+C:\Users\SAI PAVAN KUMAR\source\repos\ProjectMain\ProjectMain\obj\Debug\ProjectMain.csproj.CoreCompileInputs.cache
+C:\Users\SAI PAVAN KUMAR\source\repos\ProjectMain\ProjectMain\obj\Debug\ProjectMain.exe
+C:\Users\SAI PAVAN KUMAR\source\repos\ProjectMain\ProjectMain\obj\Debug\ProjectMain.pdb
+C:\Users\SAI PAVAN KUMAR\source\repos\ProjectMain\ProjectMain\bin\Debug\TeachersRecordClassLibrary.dll
+C:\Users\SAI PAVAN KUMAR\source\repos\ProjectMain\ProjectMain\bin\Debug\TeachersRecordClassLibrary.pdb
+C:\Users\SAI PAVAN KUMAR\source\repos\ProjectMain\ProjectMain\obj\Debug\ProjectMain.csproj.CopyComplete

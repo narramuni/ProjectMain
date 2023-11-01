@@ -1,0 +1,7 @@
+101, kalyan, 8 A
+101, sai, 6 A
+104, SAIPAVAN, 9 A
+102, venu, 10 A
+201, Kumar, 9 B
+201, Guru, 9 A
+301, Vinay, 10 A

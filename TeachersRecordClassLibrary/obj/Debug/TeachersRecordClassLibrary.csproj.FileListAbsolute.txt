@@ -1,0 +1,6 @@
+C:\Users\SAI PAVAN KUMAR\source\repos\ProjectMain\TeachersRecordClassLibrary\bin\Debug\TeachersRecordClassLibrary.dll
+C:\Users\SAI PAVAN KUMAR\source\repos\ProjectMain\TeachersRecordClassLibrary\bin\Debug\TeachersRecordClassLibrary.pdb
+C:\Users\SAI PAVAN KUMAR\source\repos\ProjectMain\TeachersRecordClassLibrary\obj\Debug\TeachersRecordClassLibrary.csproj.AssemblyReference.cache
+C:\Users\SAI PAVAN KUMAR\source\repos\ProjectMain\TeachersRecordClassLibrary\obj\Debug\TeachersRecordClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\SAI PAVAN KUMAR\source\repos\ProjectMain\TeachersRecordClassLibrary\obj\Debug\TeachersRecordClassLibrary.dll
+C:\Users\SAI PAVAN KUMAR\source\repos\ProjectMain\TeachersRecordClassLibrary\obj\Debug\TeachersRecordClassLibrary.pdb
